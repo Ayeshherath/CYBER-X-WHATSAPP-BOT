@@ -1,8 +1,9 @@
 {
-    "name": "Cyber-X WhatsApp Bot",
-    "description": "This is a 3ʳᵈ Party Application software for WhatsApp with Many Feature & many Commands",
-    "repository": "https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT",
-    "logo": "https://telegra.ph/file/71c859102f3625d06204b.jpg",
+    "name": "𝚂𝙾𝚄𝙻 𝙺𝙸𝙻𝙻𝙴𝚁♠️
+ Bot",
+    "description": "𝚂𝙾𝚄𝙻 𝙺𝙸𝙻𝙻𝙴𝚁 𝙸𝚂 𝚅𝙴𝚁𝚈 𝙳𝙰𝙽𝙶𝙴𝚁𝙾𝚄𝚂 𝙱𝙴 𝙲𝙰𝚁𝙴 𝙵𝚄𝙻𝙻... ♠️",
+    "repository": "https://github.com/ayeshherath/CYBER-X-WHATSAPP-BOT",
+    "logo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2Fsoulkillermovie%2F&psig=AOvVaw1hc6ME7nVfJZTxV_-3fVeY&ust=1703470665123000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKD3xPCAp4MDFQAAAAAdAAAAABAE",
     "keywords": [
         "nodejs",
         "Bot",
@@ -12,7 +13,7 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "Type the Session-ID you got from scaning QR",
+            "description": "cyber-x@;;;MRMUiBaK#LNNK1b1vGG3aGCGKJq5tdtv1hTwm-Giz98U17e_-__o",
             "required": true,
             "value": ""
         },
