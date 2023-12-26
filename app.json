@@ -12,7 +12,7 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "cyber-x@;;;MRMUiBaK#LNNK1b1vGG3aGCGKJq5tdtv1hTwm-Giz98U17e_-__o",
+            "description": "",
             "required": true,
             "value": ""
         },
