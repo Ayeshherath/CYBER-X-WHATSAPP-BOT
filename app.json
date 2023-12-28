@@ -1,8 +1,8 @@
 {
-    "name": "Cyber-X WhatsApp Bot",
-    "description": "This is a 3ʳᵈ Party Application software for WhatsApp with Many Feature & many Commands",
+    "name": "SOUL KILLER OFC BOT",
+    "description": "𝚂𝙾𝚄𝙻 𝙺𝙸𝙻𝙻𝙴𝚁 𝙸𝚂 𝚅𝙴𝚁𝚈 𝙳𝙰𝙽𝙶𝙴𝚁𝙾𝚄𝚂 𝙱𝙴 𝙲𝙰𝚁𝙴 𝙵𝚄𝙻𝙻... ♠️",
     "repository": "https://github.com/darkalphaxteam/CYBER-X-WHATSAPP-BOT",
-    "logo": "https://telegra.ph/file/71c859102f3625d06204b.jpg",
+    "logo": "https://telegra.ph/file/08d4f7c2d16cd64846afd.jpg",
     "keywords": [
         "nodejs",
         "Bot",
@@ -29,7 +29,7 @@
         "WORK_TYPE": {
             "description": "Add the worktype of the Bot ( private , public , only_group )",
             "required": true,
-            "value": "private"
+            "value": "public"
         }
     },
     "buildpacks": [
