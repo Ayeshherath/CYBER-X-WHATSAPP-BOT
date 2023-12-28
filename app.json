@@ -2,7 +2,7 @@
     "name": "𝚂𝙾𝚄𝙻 𝙺𝙸𝙻𝙻𝙴𝚁♠️",
     "description": "𝚂𝙾𝚄𝙻 𝙺𝙸𝙻𝙻𝙴𝚁 𝙸𝚂 𝚅𝙴𝚁𝚈 𝙳𝙰𝙽𝙶𝙴𝚁𝙾𝚄𝚂 𝙱𝙴 𝙲𝙰𝚁𝙴 𝙵𝚄𝙻𝙻... ♠️",
     "repository": "https://github.com/ayeshherath/CYBER-X-WHATSAPP-BOT",
-    "logo": "blob:https://web.telegram.org/3dc3a2cb-8890-4501-992d-2ee20e87957b",
+    "logo": "https://telegra.ph/file/08d4f7c2d16cd64846afd.jpg",
     "keywords": [
         "nodejs",
         "Bot",
@@ -12,7 +12,7 @@
     ],
     "env": {
         "SESSION_ID": {
-            "description": "cyber-x@;;;JYkUEYwC#HkW3X6Q_7JA4U7-b-XOBGJY_acLD8miJpXKaciLXAiU",
+            "description": "cyber-x@;;;AIN02IiC#tceyOaB3Ev7BrN460KnJusxKSvtljaaCRRo8IrhtuQg",
             "required": true,
             "value": ""
         },
